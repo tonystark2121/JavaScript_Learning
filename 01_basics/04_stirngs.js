@@ -51,7 +51,7 @@ const url = "alokrawat2121@gamil.com%20tony"//browser convert the space into url
 const str = 'The quick brown fox jumps over the lazy dog.';
 
 const words = str.split(' ');
-console.log(words);//used for making the string look like array
+//console.log(words);//used for making the string look like array
 //[
 //     'The',   'quick',
 //     'brown', 'fox',
@@ -59,3 +59,4 @@ console.log(words);//used for making the string look like array
 //     'the',   'lazy',
 //     'dog.'
 //   ]
+
